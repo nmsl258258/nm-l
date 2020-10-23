@@ -1,2 +1,0 @@
-hello,nm$l
-ad
